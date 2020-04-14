@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+
+    <string-array name="gizi_makanan">
+        <item>Bayam</item>
+        <item>Nasi</item>
+        <item>Susu Sapi</item>
+        <item>Daging Ayam</item>
+        <item>Apel</item>
+        <item>Pisang</item>
+        <item>Telur</item>
+        <item>Jagung</item>
+        <item>Tuna</item>
+        <item>Salmon</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Sayuran tinggi serat dan zat besi baik untuk kesehatan mata, tulang kulit,imunitas dan masih banyak lagi...</item>
+        <item>Sumber karbohidrat utama yang menjadi makanan pokok di banyak negara, terutama Indonesia....</item>
+        <item>Sumber nutrisi yang terdiri dari kalsium, fosfor, magnesium, vitamin D, vitamin A,...</item>
+        <item>ndaging sapi juga merupakan sumber dari protein, vitamin B3, vitamin B6, fosfor, zinc, selenium, dan ...</item>
+        <item>Mengonsumsi daging ayam sangat dianjurkan, meskipun frekuensinya juga tetap harus dibatasi....</item>
+        <item>Apel memiliki peran besar dalam membantu memerangi penyakit-penyakit, salah satunya adalah ....</item>
+        <item>Pisang dapat membantu mengatasi hipertensi, melancarkan metabolsime, meningkatkan kekebalan....</item>
+        <item>Mengadung protein yang sangat tinggi dan baik dikonsumsi untuk menurunkan berat badan...</item>
+        <item>Dengan kandungan karbohidrat yang tinggi, membuat manfaat jagung manis selalu menjadi...</item>
+        <item>Kaya protein, asam lemak omega 3, serta beragam vitamin dan mineral bermanfaat untuk...</item>
+        <item>Kandungan vitamin dan protein di dalamnya memiliki kualitas yang tinggi seperti Asam...</item>
+    </string-array>
+
+    <string-array name="lengkap">
+        <item>"Bayam menjadi salah satu sayuran yang sering dikonsumsi oleh banyak orang. Selain bernilai gizi tinggi, olahan bayam saat ini pun beraneka macam. Ada yang mengolah dengan cara ditumis, dibuat salad atau kreasi lainnya.
+
+Manfaat bayam untuk kesehatan pun banyak. Bayam memiliki kandungan vitamin dan mineral yang cukup lengkap. Dilansir dari Doktersehat, kandungan vitamin yang dimiliki bayam di antaranya yaitu vitamin A, vitamin B, vitamin C, dan Vitamin A.
+
+Tak hanya itu, mineral-mineral utama yang dimiliki bayam yaitu magnesium, asam folat, zat besi, potasium, kalsium dan sodium. Melihat banyaknya kandungan gizi dalam sayur bayam, tentu manfaat dari sayur bayam untuk kesehatan begitu banyak.
+berikut manfaat bayam untuk kesehatan.
+            1. Mencegah Anemia
+            Salah satu manfaat bayam untuk kesehatan yang telah dikenal sejak dulu yaitu dapat mencegah anemia. Hal ini dikarenakan bayam merupakan salah satu asupan zat besi yang baik.
+
+Tetapi, sayur bayam juga mengandung oksalat yang dapat menghambat penyerapan zat besi bila dikonsumsi. Salah satu cara yang dapat Anda lakukan untuk menyiasatinya yaitu dengan mengonsumsi vitamin C yang dapat membantu penyerapan zat besi
+
+            2. Nutrisi Untuk Ibu Hamil
+            Sayur bayam memiliki manfaat besar untuk ibu hamil. Hal ini dikarenakan bayam mengandung folat yang sangat dibutuhkan oleh janin. Folat yang terkandung dalam bayam dapat mengembangkan sistem saraf mereka sehingga cacat pada mulut seperti celah bibir (sumbing) dapat terhindarkan.
+
+Cacat seperti spinda bifilda (terbentuknya celah atau defek pada tulang belakang dan saraf tulang belakang) atau bibir sumbing terjadi karena kekurangan folat. Oleh sebab itu, konsumsi bayam pada ibu hamil dan menyusui sangat dianjurkan.
+
+            3. Menjaga Tekanan Darah
+            bayam memiliki manfaat untuk menjaga tekanan darah. Hal ini dikarenakan bayam memiliki kandungan potasium yang dapat menurunkan tekanan darah. Resiko terkena hipertensi pun berkurang karena folat yang menenangkan pembuluh darah. Dengan tekanan darah yang terjaga, maka stres pada sistem kardiovaskuler juga berkurang. Tubuh pun akan mendapat oksigen dengan baik.
+
+            4. Menjaga Kesehatan Mata
+            Kandungan bayam yang kaya akan beta-karoten, xanthene dan lutein sangat baik untuk kesehatan mata. Dengan mengonsumsi sayur bayam secara rutin, kebutuhan vitamin A akan selalu tercukupi.
+
+Dilansir dari Hellosehat, mengonsumsi bayam juga dapat mengatasi beberapa masalah pada mata seperti mengurangi rasa gatal di mata, membantu mengobati ulkus mata dan masalah lainnya. Selain itu, kandungan lutein dan xanthene dalam bayam bertugas sebagai antioksidan untuk mencegah radikal bebas yang dapat menyebabkan katarak pada mata
+
+            5. Baik untuk Penderita Diabetes
+            Dilansir dari Doktersehat, bayam memiliki manfaat yang sangat bagi untuk penderita diabetes. Bayam mengandung alpha-lipoic yang terbukti dapat menurunkan gula darah, meningkatkan sensitivitas insulin serta mencegah perubahan oksidatif yang dipicu stres pada pasien diabetes.
+
+Selain manfaat tersebut, bayam ternyata juga dapat menurunkan risiko neuropati perifer dan otonom pada penderita diabetes"
+ </item>
+        <item>"Karbohidrat pada nasi putih memiliki peran penting dalam memberikan energi bagi tubuh. Ketika Anda mengonsumsi nasi putih, karbohidrat di dalamnya akan dipecah menjadi glukosa, yang kemudian akan diserap dan masuk ke aliran darah. Glukosa ini akan diedarkan ke seluruh tubuh sebagai bahan bakar, terutama bagi otak.
+
+Selain sebagai sumber energi, manfaat nasi putih juga bisa didapatkan dari kandungan nutrisinya yang lain, yaitu:
+
+    Vitamin B1 (tiamin), untuk membantu metabolisme karbohidrat.
+    Magnesium, sebagai komponen penting dalam membentuk struktur tulang dan mengatur kontraksi otot.
+    Mangan, untuk membantu kerja otak, sistem saraf, dan enzim-enzim di dalam tubuh.
+
+Meski nasi putih kaya akan nutrisi, mengonsumsi nasi putih secara berlebihan juga tidak baik bagi kesehatan. Salah satu risiko mengonsumsi nasi putih terlalu banyak adalah terjadinya sindrom metabolik yang sering dikaitkan dengan penyakit jantung, diabetes tipe 2, dan stroke.
+
+Beberapa ahli gizi lebih menganjurkan konsumsi nasi merah (beras merah) karena kandungan serat, vitamin, dan mineralnya lebih banyak daripada nasi putih. Namun, karena nasi merah kurang pulen dan rasanya lebih hambar, kebanyakan orang tetap memilih nasi putih.
+
+Mengonsumsi nasi putih sebenarnya masih aman selama tidak berlebihan. Untuk mengetahui porsi nasi putih yang sesuai dengan kebutuhan dan kondisi kesehatan Anda, berkonsultasilah dengan dokter. Dokter juga bisa memberikan alternatif pengganti nasi putih yang lebih sehat."
+        </item>
+        <item>"Susu menjadi pilihan sebagai sumber nutrisi untuk menunjang pertumbuhan. Ahli nutrisi mengatakan bahwa di dalam kandungan susu sapi murni terdiri dari kalsium, fosfor, magnesium, vitamin D, vitamin A, dan vitamin B12.
+
+Ada pula kandungan protein, karbohidrat, lemak, kalori, riboflavin, niacin, kolin, zinc, asam amino, asam linoleat serta potasium.
+
+Nutrisi dan senyawa tersebut membantu untuk memenuhi nutrisi harian yang diperlukan oleh tubuh selain dari makanan dan minuman yang dikonsumsi setiap hari. susu memiliki banyak manfaat untuk tubuh kita yaitu.
+            1. Membantu Pertumbuhan Tulang
+Manfaat susu sapi yang pertama yakni membantu pertumbuhan tulang. Dikatakan demikian sebab kalsium juga mineral yang kaya ada dalam kandungan susu sapi. Susu sapi juga diperkaya dengan vitamin D dan fosfor yang membantu menambah kesehatan tulang.
+
+            2. Menyehatkan Jantung
+Susu sapi sebagai sumber potasium ternyata mampu menyehatkan fungsi jantung. Potasium dalam kandungan susu sapi mampu menstabilkan darah dan tekanan darah. Tentunya ini akan membuat sirkulasi darah menjadi lancar dan kemungkinan risiko penyakit jantung juga menurun.
+
+            3. Menurunkan Risiko Kanker
+Ada sebuah penelitian yang menyebutkan bahwa kandungan susu sapi yang kaya akan vitamin D mampu memainkan peran dalam pertumbuhan sel dan perlindungan kanker. Kalsium dan laktosa dalam kandungan susu sapi juga berguna untuk mencegah kanker ovarium, lho Toppers.
+
+            4. Membantu Pembentukan Massa Otot
+Kandungan protein yang ada dalam susu sapi bisa membantu pembentukan massa otot. Khasiat susu sapi murni yang satu ini umumnya digunakan oleh olahragawan untuk memperbaiki otot yang mengalami kerusakan.
+
+Tak hanya itu, kandungan lemak jenuh dalam susu sapi murni mampu mencegah penguraian massa otot sebagai energi.
+
+            5. Menurunkan Risiko Radang Sendi
+Seperti yang telah disebutkan di atas, susu sapi murni adalah sumber nutrisi yang baik untuk kesehatan tulang. Dalam kandungan susu sapi terdapat vitamin K juga magnesium yang baik untuk menurunkan risiko radang sendi atau osteoporosis."
+        </item>
+        <item>"Mengonsumsi daging ayam sangat dianjurkan, meskipun frekuensinya juga tetap harus dibatasi. Selain rasanya yang enak dan bisa diolah menjadi pelbagai macam menu masakan, ayam mengandung banyak nutrisi di dalamnya yang mana nutrisi tersebut tentunya sangat dibutuhkan oleh tubuh.daging ayam mengandung
+    Lemak
+    Kalori
+    Karbohidrat
+    Protein
+    Zat besi
+    Sodium
+    Vitamin A
+    Vitamin B
+    Vitamin C
+        Lantas, manfaat apa yang bisa Anda dapatkan dengan mengonsumsi daging ayam secara rutin? Simak informasinya berikut ini.
+1. Pembentukan Otot
+
+Daging ayam mengandung protein, tepatnya asam amino. Hal ini lantas menghasilkan manfaat ayam untuk membantu memaksimalkan pembentukan otot tubuh.
+
+Protein adalah zat yang memang salah satu fungsinya adalah untuk membentuk dan menguatkan otot-otot tubuh. Dada ayam adalah bagian daging ayam yang paling banyak mengandung protein, yakni sekitar 25 gram.
+2. Membantu Menurunkan Berat Badan
+
+Selain membantu pembentukan otot, kandungan daging ayam berupa protein juga menghasilkan manfaat daging ayam untuk membantu menurunkan berat badan bagi Anda yang kini sedang menjalani program penurunan berat badan.
+
+Manfaat ayam untuk membantu menurunkan berat badan melalui kandungan proteinnya tersebut dikarenakan zat ini dapat memberikan efek kenyang yang lebih lama, sehingga Anda bisa menekan frekuensi makan guna menjaga berat badan tubuh.
+3. Memperbaiki Suasana Hati (Mood)
+
+Manfaat ayam bagi kesehatan tubuh selanjutnya adalah untuk memperbaiki suasana hati (mood). Hal ini dimungkinkan karena pada ayam terdapat kandungan zat yang disebut tryptophan. Zat ini berfungsi untuk meningkatkan produksi serotonin di dalam otak.
+
+Nah, serotonin inilah yang kemudian berperan untuk memberikan efek nyaman dan juga tenang pada tubuh.
+4. Meningkatkan Metabolisme Tubuh
+
+Kandungan vitamin B6 pada daging ayam berfungsi untuk meningkatkan metabolisme tubuh. Pun, vitamin ini berperan untuk meningkatkan sistem kekebalan tubuh dan fungsi dari sistem saraf pusat.
+
+Tubuh yang sehat ditunjang oleh metabolisme yang baik. Oleh sebab itu, tingkatkan metabolisme tubuh Anda dengan cara mengonsumsi daging ayam ini salah satunya.
+5. Menurunkan Kolesterol
+
+Selain vitamin B6, pada ayam juga terkandung vitamin B3 atau niacin. Hal ini menghasilkan manfaat ayam untuk menurunkan kadar lemak LDL atau kolesterol ‘jahat’.
+
+Manfaat daging ayam yang bisa membantu mengontrol kadar kolesterol ‘jahat’ ini menjadikannya makanan yang patut untuk Anda konsumsi secara rutin. Pasalnya, kolesterol ‘jahat’ jika terus menerus dibiarkan akan berakibat pada munculnya gangguan kesehatan, salah satunya penyakit kardiovaskular seperti jantung.
+6. Meminimalisir Risiko Kanker
+
+Sementara itu, kandungan gizi ayam berupa zat antioksidan bernama selenium efektif untuk menghalau serangan radikal bebas. Hal ini tentu saja sangat dibutuhkan tubuh karena sebagaimana diketahui, radikal bebas menjadi pemicu utama terjadinya kerusakan pada sel-sel tubuh yang kemudian berkembang menjadi sel kanker.
+7. Merawat Kesehatan Kulit
+
+Memiliki kulit yang sehat adalah impian semua orang. Guna mewujudkan hal tersebut, salah satu cara yang bisa dilakukan adalah dengan mengonsumsi daging ayam secara rutin.
+
+Lagi-lagi, manfaat ayam yang satu ini dihasilkan oleh kandungan zat antioksidan di dalamnya, kali ini ‘diwakilkan’ oleh vitamin C. Seperti yang mungkin sudah Anda ketahui, vitamin C adalah vitamin yang identik dengan kulit."
+    </item>
+        <item>"Apel  atau dalam bahasa Inggris disebut apple adalah salah satu jenis buah-buahan yang cukup populer di berbagai belahan dunia, termasuk Indonesia. Buah yang memiliki nama latin Malus domestica ini biasa dijadikan pencuci mulut, alias makanan penutup.
+
+Tak kalah dengan buah-buahan lainnya, apel juga memberikan manfaat untuk kesehatan tubuh. Apel juga disukai banyak orang, mulai dari anak-anak hingga orang dewasa.
+
+Menurut Medical News Today, apel masuk ke dalam 10 menu makanan sehat. Buah ini kaya antioksidan, flavonoid, dan serat makanan. Kandungan tersebut sangat penting untuk melindungi tubuh dari berbagai penyakit.
+
+Fitonutrien dan antioksidan dalam apel dapat membantu mengurangi risiko kanker , hipertensi , diabetes , dan penyakit jantung. Banyak ahli gizi menyarankan apel agar dikonsumsi setiap hari untuk memenuhi nutrisi harian tubuh.
+
+Nutrisi yang terkandung dalam buah apel meliputi karbohidrat, serat, vitamin C, potasium, vitamin K. Buah ini juga mengandung mineral, vitamin A, vitamin E, vitamin B1, vitamin B2, dan vitamin B6.
+
+Saking banyaknya nutrisi yang terkandung, buah apel memberikan banyak manfaat pula untuk kesehatan dan kecantikan seperti berikut.
+        1. Cegah Penyakit Stroke
+
+Manfaat buah apel yang pertama adalah mencegah penyakit stroke. Sayangnya, masih ada yang belum mengetahui terkait manfaat buah apel untuk mencegah penyakit ini.
+
+Menurut sebuah penelitian dalam Journal of American Heart Association, daging buah apel yang berwarna putih mampu mengurangi risiko dari penyakit stroke.
+
+Apel dengan daging putih mengandung senyawa Phytochemical seperti karotenoid (warna merah, kuning dan oranye pada buah dan sayur) dan Flavanoid di mana keduanya berfungsi sebagai antioksidan. Dengan mengonsumsi satu buah apel rutin setiap hari akan mencegah seseorang dari penyakit stroke.
+        2. Bantu Menurunkan Berat Badan
+
+Apel memiliki kandungan mineral dan serat cukup tinggi. Sebuah studi mengungkap orang yang mengonsumsi beberapa potong apel merasa lebih kenyang dibandingkan meminum jus apel atau produk makanan dengan varian apel.
+
+Studi lain menemukan, wanita yang mengonsumsi apel dalam diet hariannya selama 10 minggu, berhasil memangkas satu kilogram bobot tubuhnya. Manfaat ini menunjukkan bahwa apel adalah cara terbaik untuk membantu menurunkan berat badan dan meluruhkan lemak tubuh.
+        3. Memelihara Kesehatan Jantung
+
+Rajin mengonsumsi apel rutin setiap hari dapat memelihara kesehatan jantung. Khasiat ini terjadi lantaran serat dalam apel dapat menurunkan kadar kolesterol darah dan baik untuk kardiovaskular.
+
+Buah apel juga memiliki senyawa polifenol dan antioksidan yang dapat menurunkan tekanan darah. Asupan ini juga dikaitkan dengan risiko terkena stroke lebih rendah 20 persen.
+
+Selain itu, kandungan serat dalam apel juga dapat menurunkan kadar kolsterol jahat dalam darah. Dengan begitu, kesehatan jantung juga akan meningkat.
+        4. Meningkatkan Kinerja Otak
+
+Sebuah penelitian pada 2006 yang diterbitkan dalam jurnal Experimental Biology and Medicine menemukan bahwa kuersetin (salah satu antioksidan yang ditemukan melimpah di apel) merupakan salah satu dari dua senyawa yang membantu mengurangi sel mati penyebab menurunkan kinerja otak.
+
+Studi dalam Journal of Alzheimer's Disease juga menyarankan untuk mengonsumsi buah apel yang dipercaya mampu meningkatkan produksi neurotransmitter asetilkolin esensial pada otak guna meningkatkan daya ingat."
+         </item>
+        <item>"Pisang adalah buah yang dikenal luas di Indonesia. Buah pisang bisa dinikmati dengan berbagai cara: dimakan langsung, digoreng, dikukus, atau diolah bersama bahan lain. Tapi pisang tidak hanya enak, manfaatnya banyak.
+            1. Membantu Atasi Hipertensi
+            Kalium yang terkandung dalam buah pisang dapat membantu mengatur keseimbangan cairan dan elektrolit sehingga tekanan darah tetap stabil. Serat bahan pangan yang dikandung pisang mampu mengikat lemak, dengan demikian pembentukan plak bisa dicegah. Plak bisa menyempitkan bahkan menyumbat pembuluh darah sehingga menyebabkan tekanan darah meningkat.
+
+            2. Sumber Karbohidrat dan Vitamin A
+            Buah pisang kaya akan vitamin dan serat. Jika dibanding dengan apel, pisang memiliki lebih dari dua kali lipat karbohidrat, dan lima kali lipat vitamin A. Selain itu pisang juga kaya magnesium dan kalium yang penting bagi tubuh untuk tetap bugar.
+
+            3. Pisang Perlancar Metabolisme
+            Dengan makan pisang, Anda yang mengalami kesulitan saat buang air besar, dapat memakan buah pisang sebagai langkah pengobatan. Karena buah pisang dapat membantu memperlancar pembuangan sisa tubuh dalam proses metabolisme.
+
+            4. Meningkatkan Kekebalan Tubuh
+            Anda banyak beraktivitas dan suka berolahraga? Kandungan Vitamin A, C, dan B6 yang terdapat pada buah pisang berfungsi untuk meningkatkan kekebalan tubuh dalam melawan infeksi. Sehingga tubuh akan terasa segar dan tidak cepat lemas.
+
+            5.Melancarkan Aliran Oksigen ke Otak
+            Pisang kaya akan potasium, mineral yang penting bagi penjagaan fungsi jantung dan sirkulasi darah. Oleh sebab itu sirkulasi oksigen ke otak bisa terjamin dan stroke akibat tekanan darah tinggi bisa dicegah.
+
+            6. Mengatasi Anemia
+            Salah satu hal penting lain yang dikandung pisang adalah zat besi. Sehingga buah ini baik bagi orang yang kekurangan darah merah. Tepatnya untuk mendukung pembentukan hemoglobin, atau protein yang mengandung zat besi.
+
+            7. Menurunkan Berat Badan
+            Untuk orang yang melaksanakan diet, karbohidrat kompleks yang terkadung dalam pisang tidak menaikkan kadar glukosa secara drastis. Di samping itu pisang juga rendah lemak sehingga aman untuk peserta program penurunan berat badan. Di Jepang ada tren diet baru: minimal satu dan maksimal empat pisang untuk sarapan. Itu katanya mendorong metabolisme, sehingga orang tidak perlu berolahraga."
+        </item>
+        <item>"Manfaat makan telur
+            1. Meningkatkan metabolisme
+            Kandungan kolin dalam telur rebus dapat membantu proses pencernaan lemak serta mencegah penumpukan lemak pada tubuh. Selain itu, telur rebus juga dapat meningkatkan kadar adiponectin yang bisa meningkatkan metabolisme, meningkatkan kemampuan tubuh saat merespon insulin, memperlancar proses pencernaan lemak.
+
+            2. Memiliki kalori yang rendah
+            Jika Anda ingin mengonsumsi telur rebus saat diet, tidak perlu khawatir. Pasalnya, telur rebus memiliki kalori yang rendah, satu telur rebus besar kurang lebih hanya memberikan Anda 78 kalori. Ditambah lagi, telur rebus tidak menggunakan minyak ataupun lemak yang dapat memberikan kalori ekstra.
+            Dengan mengonsumsi telur rebus bisa menjadi pengganti makanan sumber protein lainnya yang berlemak tinggi. Anda dapat mengonsumsi telur rebus dengan sayuran, dan karbohidrat berkalori rendah, seperti mengonsumsi telur rebus dengan kangkung dan kentang.
+
+            3. Mengurangi risiko penyakit jantung
+            Kolesterol partikel LDL besar yang terdapat pada telur rebus dapat mengurangi risiko penyakit jantung. Walaupun kolesterol LDL dikenal sebagai kolesterol jahat, namun menurut penelitian partikel LDL kecil lebih dominan memiliki risiko penyakit jantung lebih tinggi dari pada orang yang memiliki partikel LDL besar.
+
+            4. Menjaga kesehatan mata
+            Telur mengandung lutein dan zeaxanthin yaitu antioksidan yang mempunyai peran penting untuk kesehatan mata Anda. Telur mempunyai kandungan antioksidan kuat yang dapat mempertahankan kesehatan retina mata, sehingga kesehatan mata tetap terjaga. Hal ini sangat diperlukan bagi orang yang sudah tua, yang rentan mengalami penurunan pada kemampuan penglihatannya.
+
+            5. Menjaga kesehatan otak
+            Telur rebus mengandung kolin yang dikelompokan dalam vitamin B. kolin dapat membantu menjaga kesehatan otak karena dibutuhkan untuk membangun membran sel dan membantu produksi molekul sinyal dalam otak. Selain itu, kolin juga berperan penting dalam memecah asam amino homosistein, yang berhubungan dengan perkembangan jantung.
+
+            6. Menurunkan kadar trigliserida dalam darah
+            Telur rebus diperkaya kandungan asam lemak omega 3 yang dapat menurunkan kadar trigliserida dalam darah. Jika kadar trigliserida tinggi dalam darah, maka dapat meningkatkan faktor risiko dari penyakit jantung. Dengan mengonsumsi lima butir telur yang diperkaya dengan omega 3 per minggu selama tiga minggu dapat mengurangi kadar trigliserida dalam darah sebesar 16-18%.
+
+            Telur rebus merupakan asupan sehat yang mengandung protein tinggi. Buat Anda yang ingin menurunkan badan, makan telur rebus adalah makanan yang cocok. Namun, efek samping telur rebus bisa timbul jika Anda tidak mengonsumsinya dengan benar. Berkonsultasilah dengan dokter untuk mengetahui apakah Anda alergi terhadap telur atau tidak, untuk mengurangi risiko munculnya reaksi." </item>
+        <item>"Kandungan nutrisinya yang lengkap membuat jagung manis sangat baik dikonsumsi secara rutin untuk menjaga kesehatan tubuh. Berikut ini beragam manfaat jagung manis untuk kesehatan.
+            1. Meningkatkan Kesehatan Jantung
+            Jagung manis mengandung carotenoid yang sangat berguna untuk menurunkan risiko dan mencegah terjadinya penyumbatan arteri. Konsumsi rutin jagung manis akan menjaga dan meningkatkan kesehatan jantung anda.
+
+            2.Mengatasi Gangguan Pencernaan
+            Manfaat jagung manis yang kaya serat ini berkhasiat mengatasi berbagai gangguan pencernaan dan sekaligus melancarkannya. Pencernaan yang lancar akan menjauhkan tubuh dari berbagai penyakit.
+
+            3.Menyembuhkan Penyakit Anemia
+            Jagung manis yang memiliki kandungan asam folat, zat besi, dan vitamin B12 sangat berkhasiat untuk mengatasi penyakit anemia. Rebus saja jagung manis dan jadikan cemilan makanan yang enak.
+
+        4. Meningkatkan Kesehatan Mata
+        Kandungan carotenoid dalam jagung ternyata juga baik untuk mengatasi gangguan mata sekaligus mencegah penyakit mata. Makan rutin buah jagung manis juga berguna untuk meningkatkan ketajaman penglihatan.
+
+        5.Mencegah Cacat Bayi Saat Lahir
+            Manfaat jagung manis juga bisa membantu kesehatan ibu hamil. Selain mencukupi kebutuhan gizi ibu hamil, nutrisi asam folat dalam jagung berguna meningkatkan kesehatan janin dan mencegah risiko kelahiran cacat pada bayi."</item>
+        <item>"Kandungan asam lemak omega 3 inilah yang menjadi salah satu manfaat ikan tuna untuk bayi karena dapat membantu pertumbuhan dan perkembangan otak pada bayi dan anak-anak. Asam lemak juga dapat membantu menjaga kesehatan jantung dengan menurunkan risiko tekanan darah tinggi.
+
+            1. Menjaga jaringan tubuh dan otak
+            Ikan tuna juga merupakan sumber protein yang lengkap. Asam amino dalam ikan tuna dapat memberikan protein dalam jumlah besar. Pada bayi dan anak-anak, protein yang tinggi tersebut dapat menjaga jaringan tubuh dan otak agar dapat berfungsi dengan baik.
+
+            2. Menyehatkan jantung
+            Selain mengandung banyak protein yang dapat memenuhi kebutuhan bagi tubuh, manfaat ikan tuna lainnya adalah mengandung lemak yang sehat. Hal ini karena kandungan lemak jenuh yang terdapat dalam ikan tergolong rendah sehingga membantu menjaga kesehatan jantung dengan menurunkan risiko tekanan darah tinggi.Sementara, lemak jenuh dalam kadar yang tinggi justru dapat menyebabkan efek buruk karena menyumbat pembuluh darah dan membuat Anda berisiko terserang penyakit kardiovaskular. Ikan tuna juga memiliki kandungan asam lemak esensial omega 3 jenis EPA dan DHA yang tinggi. Jenis asam lemak esensial tersebut mampu mencegah berbagai peradangan di dalam tubuh, yang dapat merusak pembuluh darah dan menyebabkan penyakit jantung juga stroke.
+
+            3. Meningkatkan produksi hemoglobin
+            Manfaat ikan tuna lainnya adalah meningkatkan produksi hemoglobin. Ikan tuna juga kaya akan vitamin B6, terutama ikan tuna jenis yellowfin dan albacore. Vitamin B6 yang didapatkan dari ikan tuna menawarkan berbagai manfaat untuk tubuh. Salah satunya, yakni membantu meningkatkan produksi hemoglobin. Hemoglobin adalah protein yang berfungsi menangkap dan membawa oksigen dalam darah ke seluruh jaringan tubuh yang memerlukan oksigen. Jika tidak oksigen yang cukup dalam setiap jaringan, maka fungsi jaringan tersebut akan menurun dan membuat tubuh terasa mudah lelah."
+        </item>
+        <item>"Salmon mengandung asam lemak omega-3 yang menjadi sumber yang paling baik. Kandungan vitamin dan protein di dalamnya juga memiliki kualitas yang tinggi. Asam omega-3 yang ada di dalam salmon mempunyai peran tinggi bagi tubuh Anda. Salah satunya adalah menjaga kesehatan tubuh. Asam omega-3 merupakan lemak istimewa yang terdapat pada daging ikan salmon. Daging ikan salmon juga sangat kuat dalam melawan serta mengurangi risiko beberapa penyakit. Cita rasanya yang lezat menjadi nilai tambahan untuk menjadikan ikan salmon makanan konsumsi sehari-hari. Berikut merupakan rangkuman manfaat ikan salmon bagi kesehatan yaitu:
+
+            1. Sumber Omega-3 yang Baik
+            Salmon merupakan salah satu sumber asam lemak omega-3 yang terbaik. Hanya dengan 3,5 ons salmon, Anda akan mendapatkan manfaat dari 2,3 gram asam lemak omega-3 yang terkandung di dalamnya. Asam omega-3 yang ada ternyata dapat membantu Anda menurunkan risiko kanker, penurunan peradangan, kadar tekanan darah dan meningkatkan fungsi sel-sel dalam tubuh.
+
+            2. Kaya Protein
+            Sama seperti omega-3, protein merupakan zat penting untuk kesehatan tubuh Anda dan salmon merupakan sumber protein yang bagus. Protein ini dapat membantu tubuh Anda dalam menyembuhkan cedera jika Anda mengalaminya. Protein akan menjaga massa otot dan meningkatkan kesehatan tulang. Sangat dianjurkan bagi Anda untuk mengonsumsi makanan dengan kandungan protein setidaknya 20 gram per harinya, dan ini bisa Anda dapatkan ketika memakan daging salmon.
+
+            3. Dapat Kontrol Berat Badan
+            Karena kandungan protein di dalamnya sangat tinggi, maka salmon dapat mengontrol berat badan. Jadi ikan salmon juga cocok dikonsumsi ketika Anda sedang melakukan diet. Makanan dengan protein tinggi mampu mengontrol hormon yang mengatur nafsu makan dalam tubuh Anda. Semakin banyak Anda mengonsumsi salmon maka Anda juga akan cepat kenyang. Daging ikan salmon juga dapat meningkatkan metabolisme tubuh. Ikan yang memiliki kandungan lemak juga akan dikaitkan dengan pengurangan lemak perut yang memiliki berat badan berlebih.
+
+            4. Tinggi Potasium
+            Ikan salmon mengandung 18 persen dari asupan potasium yang direkomendasikan untuk manusia setiap harinya. Faktanya ikan salmon memiliki lebih banyak mengandung potasium daripada pisang yang hanya mengandung 10 persen dari yang direkomendasikan untuk manusia setiap harinya. Kalium yang ada juga dapat mengontrol tekanan darah dan mengurangi risiko stroke."
+        </item>
+
+    </string-array>
+</resources>
